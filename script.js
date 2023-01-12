@@ -2,6 +2,7 @@
   "use strict";
 
   const itemsForFirst = [
+    "0",
     "1",
     "2",
     "3",
